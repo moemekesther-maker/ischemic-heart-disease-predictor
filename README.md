@@ -110,12 +110,8 @@ streamlit run phase6_streamlit_app.py
 
 [Add your Streamlit Cloud URL here after deployment]
 
----
 
-## ⚠️ Disclaimer
 
-This project is for **educational and portfolio purposes only**.
-It is **not medical advice** and must not be used for real clinical decision-making.
 
 ---
 
